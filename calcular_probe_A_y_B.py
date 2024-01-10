@@ -1,7 +1,8 @@
 
-#Version 1.1.2
-print("Version 1.1.2")
-print("En esta version se añadio un print() y un archivo style.css")
+#Version 1.1.4
+print("Version 1.1.4")
+print("En esta version solo se cambio la version a la 1.1.4")
+
 
 
 #import para leer archivos en formato csv
