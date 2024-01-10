@@ -1,7 +1,7 @@
 
-#Version 1.2.1
-print("Version 1.2.1")
-print("En esta version se creo una nueva rama")
+#Version 1.2.2
+print("Version 1.2.2")
+print("En esta version se añadio un archivo js")
 
 
 #import para leer archivos en formato csv
